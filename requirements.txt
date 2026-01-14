@@ -1,0 +1,12 @@
+openai-whisper
+sentence-transformers
+qdrant-client
+opencv-python
+moviepy
+Pillow
+numpy
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
